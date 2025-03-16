@@ -1,7 +1,10 @@
 # Shortest Path Finder
 
+![Graph Visualization Demo](./Example.png)
+
 ## Overview
 This program implements Dijkstra, BFS, Bellman-Ford, and Floyd-Warshall algorithms to find the shortest path from a specified source vertex to all other vertices in an undirected graph. The application reads the graph structure from a file and outputs the shortest distance to each vertex.
+
 ## Features
 - Reads the graph structure from a file
 - Calculates shortest paths using different algorithms
@@ -52,3 +55,10 @@ Meaning:
 - Distance from vertex 4 to vertex 2 is 3
 - Distance from vertex 4 to vertex 3 is 3
 - Distance from vertex 4 to vertex 4 (itself) is 0
+  
+## Contact Information
+
+- **Developer:** Daria Karaseva
+- **Email:** [dar1a.karaseva@yandex.ru]
+- **GitHub:** [github.com/dddashhh]
+- **Telegram:** [@dashkar]
