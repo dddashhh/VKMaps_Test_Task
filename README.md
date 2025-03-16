@@ -59,6 +59,5 @@ Meaning:
 ## Contact Information
 
 - **Developer:** Daria Karaseva
-- **Email:** [dar1a.karaseva@yandex.ru]
-- **GitHub:** [github.com/dddashhh]
-- **Telegram:** [@dashkar]
+- **Email:** dar1a.karaseva@yandex.ru
+- **Telegram:** @dashkar
